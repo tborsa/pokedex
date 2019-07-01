@@ -1,15 +1,15 @@
-React Boilerplate
+React Pokedex!
 =====================
 
-A minimal and light dev environment for ReactJS.
+A demo application using the Lighthouse React Boilerplate.
 
 ### Usage
 
-Clone the boilerplate and create your own git repo.
+Clone the Pokedex and Catch em All!
 
 ```
-git clone git@github.com:lighthouse-labs/react-simple-boilerplate.git
-cd react-simple-boilerplate
+git clone https://github.com/tborsa/pokedex
+cd pokedex
 git remote rm origin
 git remote add origin [YOUR NEW REPOSITORY]
 # Manually update your package.json file
